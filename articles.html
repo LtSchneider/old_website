@@ -1,0 +1,30 @@
+---
+layout: page
+title: articles
+permalink: /articles/
+---
+<!-- Slider Start -->
+<section id="global-header">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="block">
+          <h1>Articles</h1>
+          <p>Anthropological writing can bring us closer to each other no matter from which corner of the world we are reading or writing. </p>
+        <p> Because its theories, ideas and concepts are based on social research that records the different lived experiences of what it means to be human and a writer is in constant triangulation with his data and with existing thought, anthropological writing is applicable to everyday contemporary concerns, conflicts and controversies affecting human life and can speak to everyone.</P>
+		</div>
+      </div>
+    </div>
+  </div>
+ </section>
+ <p> When we begin to grasp what others share with us, we write to negotiate our experiences, to capture and store lessons learned. We then access the archive of theory and writing to substantiate what we experience, add to it, change it. Finally – if we dare – we share our words with an audience.</P>
+
+{% for post in site.categories['articles'] %}
+<div class="post-area">
+  <a href="{{ post.url | prepend: site.baseurl }}" class="bold">{{ post.title }}</a>
+  <p class="post-date">{{ post.date | date_to_long_string }}</p>
+  <p>
+    {{ post.content | strip_html | truncatewords: 50 }}
+  </p>
+</div>
+{% endfor %}

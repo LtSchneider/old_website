@@ -1,0 +1,50 @@
+/*
+ * This css file includes styles added in the jekyll port of this theme.
+ * To find the original style.css that ships with Airspace, read airspace.css
+ *
+ */
+img {
+	max-width: 100%;
+	max_height: 100%;
+}
+ .test123{
+	 height: 100px;
+	 width: 100px;
+	 margin:0 auto;
+ }
+ 
+ .italic {
+   font-style: italic;
+ }
+
+ .bold {
+   font-weight: bold;
+ }
+
+ .center-text {
+   text-align: center;
+ }
+
+.post-area {
+  padding: 40px;
+  width: 100%;
+  min-height: 150px;
+  background-color: white;
+  border-bottom: 1px dotted #ddd;
+}
+
+.post-area a:link, .post-area a:visited {
+  font-size: 30px;
+  color: #333;
+}
+
+.post-area a:hover {
+  color: #0D0017;
+}
+
+
+
+
+/*
+-------------------------------------------------------------------------------------------------------
+*/
