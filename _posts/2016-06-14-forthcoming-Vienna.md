@@ -4,6 +4,7 @@ title: "'Relationship's many faces' Paper at 2nd Non-Monogamies and Contemporary
 author: "Luisa T. Schneider"
 date: 2017-06-01  11:11:27
 categories: [ forthcomingspeakingevents]
+tags: [Conferences]
 ---
 # Relationship’s many faces: love, sex and (a)romanticism in Freetown, Sierra Leone
 

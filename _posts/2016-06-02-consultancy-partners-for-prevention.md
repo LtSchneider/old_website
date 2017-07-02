@@ -3,6 +3,7 @@ layout: post
 title: "Consultant for Partners for Prevention"
 author: Luisa T. Schneider
 categories: [ consultancies]
+tags: [consultancies]
 ---
 > During my consultancy with P4P I
 >> 1. Analyzeded the P4P capacity assessment surveys that were completed by P4P partners on line in survey monkey

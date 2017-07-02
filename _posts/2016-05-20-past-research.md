@@ -3,6 +3,7 @@ layout: post
 title: "Past Research"
 author: "Luisa T. Schneider"
 categories: [pastresearch]
+tags: [past research, development, sierra leone, human rights]
 ---
 
 In 2012 I conducted an interdisciplinary research project on conceptions of human rights and the media in shaping people's opinions about human rights. ....

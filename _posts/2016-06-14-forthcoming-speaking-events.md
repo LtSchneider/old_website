@@ -4,6 +4,7 @@ title: "'Love hurts' Paper at International Gender Studies LMH Oxford University
 author: "Luisa T. Schneider"
 date: 2017-06-01  11:11:27
 categories: [ forthcomingspeakingevents]
+tags: [Conferences]
 ---
 
 # \"Love hurts\": the multifaceted lived experiences, ramifications and regulations of Intimate Partner Violence in Freetown, Sierra Leone

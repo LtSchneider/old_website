@@ -4,6 +4,7 @@ title: "'sharing scarcity' Paper at Interdisciplinary Poverty Research Conferenc
 author: "Luisa T. Schneider"
 date: 2017-06-01  11:11:27
 categories: [ forthcomingspeakingevents]
+tags: [Conferences]
 ---
 # \"Sharing scarcity\": young men’s friendships in Freetown.
 

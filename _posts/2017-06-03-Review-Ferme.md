@@ -4,6 +4,7 @@ title: 	"Book Review: MARIANE C. FERME. 2001: The Underneath of Things. Violence
 date: 2017-06-03  11:11:27
 author: Luisa T. Schneider
 categories: [review,blog]
+tags: [Reviews]
 ---
 Mariane Ferme’s The Underneath of Things is a powerful ethnography of Kpuawala, a village 
 in south-eastern Sierra Leone. The author provides deep insights into the everyday life of the

@@ -3,6 +3,7 @@ layout: post
 title: "Humanitarian Engagement"
 author: Luisa T. Schneider
 categories: [humanitarian]
+tags: [humanitarian engagements]
 ---
 ## Abstract
 > this article is an introductionary summary to the poro and bondo secret societies in Sierra leone. 

@@ -4,6 +4,7 @@ title: "'masculinities and sexual practices among young men in Freetown, Sierra 
 author: "Luisa T. Schneider"
 date: 2017-06-01  11:11:27
 categories: [ forthcomingspeakingevents]
+tags: [Conferences]
 ---
 # Bambrusing, bossing, sexing, romancing: masculinities and sexual practices among young men in Freetown, Sierra Leone
 

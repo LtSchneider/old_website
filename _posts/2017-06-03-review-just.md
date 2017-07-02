@@ -4,6 +4,7 @@ title: "Book Review: DAVID ZEITLYN and ROGER JUST, Excursions in realist anthrop
 date: 2017-06-03  11:11:27
 author: Luisa T.Schneider
 categories: [review,blog]
+tags: [Reviews]
 
 ---
 

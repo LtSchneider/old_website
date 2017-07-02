@@ -3,6 +3,7 @@ layout: post
 title: "Secret Societies in Sierra Leone"
 author: Luisa T. Schneider
 categories: [articles]
+tags: [articles]
 ---
 ## Abstract
 > this article is an introductionary summary to the poro and bondo secret societies in Sierra leone. 

@@ -3,6 +3,7 @@ layout: post
 title: "Concomitants of academic anthropology"
 author: Luisa T. Schneider
 categories: [articles]
+tags: [articles]
 ---
 ## Abstract
 >  The following article explores concomitants of academic anthropology by discussing what lies underneath our (In this paper pronouns and unaccompanied adjectives such as ‘our’ refer to social scientists in general and anthropologists in particular) carefully designed research plans. In the course of this, the paper highlights the importance of acknowledging the gap between expectations and realities at universities, in publishing, and fieldwork, draws attention to notions of ‘the other’ and to problematic structural conditions of our discipline, and offers suggestions for improvement.

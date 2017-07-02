@@ -4,6 +4,7 @@ title: "Past Speaking Events"
 author: "Luisa T. Schneider"
 date: 2017-06-01  11:11:27
 categories: [ pastspeakingevents]
+tags: [ Conferences]
 ---
 ## Witch trials and the Reweaving of Community. Uncertainty and Secret Societies in Post- Ebola Freetown
 
