@@ -6,9 +6,9 @@ categories: [articles]
 tags: [articles]
 ---
 ## Abstract
-> this article is an introductionary summary to the poro and bondo secret societies in Sierra leone. 
+> this article provides an introductory journey through the poro and bondo secret societies in Sierra leone. 
 
-It was first published in Paradigmata Voll 11.2014. [link](http://www.paradigmata.at/paradigmata/index.php) to paradigmata - zeitschirft fuer Menschen und Diskurse
+It was first published in Paradigmata Voll 11.2014. [link](http://www.paradigmata.at/paradigmata/index.php) to paradigmata - Zeitschrift fuer Menschen und Diskurse
 
 ## Artikel
 
