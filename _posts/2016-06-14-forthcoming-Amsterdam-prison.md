@@ -1,14 +1,13 @@
 ---
 layout: post
-title: "'Perpetrators?!' Paper o the Sexual Offenses Act in Sierra Leone at the Global Prisons Research Network & Security Roundtable Meeting. Amsterdam. 2&3 November 2017"
+title: "'Perpetrators?!' Paper on the Sexual Offenses Act in Sierra Leone at the Global Prisons Research Network & Security Roundtable Meeting. Amsterdam. 2 & 3 November 2017"
 author: "Luisa T. Schneider"
 date: 2017-06-01  11:11:27
 categories: [ forthcomingspeakingevents]
 tags: [Conferences]
 ---
 
-# \"Perpetrators?!\": The consequences of the Sexual Offenses Act for young men accused of sexually penetrating
-their girlfriends in Sierra Leone
+# \"Perpetrators?!\": The consequences of the Sexual Offenses Act for young men accused of sexually penetrating their girlfriends in Sierra Leone
 
 ## Abstract
 
