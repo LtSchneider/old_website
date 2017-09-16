@@ -10,7 +10,23 @@ tags: [Conferences]
 
 ## Abstract
 
-> (to be added)
+> ‘Eat as You Can’, a social club of young men in Freetown Sierra Leone was founded by childhood friends from poor backgrounds who in the absence of having families to support them, spend most of their time together and established the club on the foundation of cooking and eating together. 
+
+These young men counter the precarity in their day-to-day lives through sharing whatever little they have with each other, being social and praying together. 
+The club is built on ideas of non-violence, religious tolerance and brotherhood. 
+
+‘Eat as You Can’ therefore presents a counter exam-ple to other often violent gangs in the area who make a living through the illicit economy. 
+Members are both Muslim and Christian and often engage in shared prayers attending and contributing to both a mosque and a church. 
+
+This paper explores the interconnection between material and social limita-tions and conceptions of sharing. Through highlighting how friendships shape the live-world of young people in urban Sierra Leone today, this paper explores friendship as a way for people to express resilience, and counter scarcity. 
+I analyse how people negotiate the prevailing uncertainty in a situa-tion of scarcity, contested authority and new urban dynamics through building and drawing from so-cial friendship networks. 
+For the young men of ‘Eat as You Can’ who find themselves at the margins of society, their friends replace the function of a family and close friends are perceived as brothers sharing joy and suffering with their members. 
+They organise funerals in the case of death, provide resources for marriage and naming ceremonies, offer advice, support and comfort to their members and punish wrongdoings and displays of ignorance, violence or self-centeredness. 
+The members of the club provide shelter, and food for each other. 
+
+It is through the network of the club that the negoti-ation of opportunities for social and economic mobility in an environment largely perceived as rigid, stagnating and hard to manoeuvre takes place. 
+This paper therefore examines questions of uncer-tainty and insecurity, and of people’s coping strategies in their struggle for self-determination in con-straint environments.
+
 
 ## Conference
 2017 Salzburg Conference in Interdisciplinary Poverty Research. 

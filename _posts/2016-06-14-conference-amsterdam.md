@@ -3,7 +3,7 @@ layout: post
 title: "'smart loving in constrained environments' Paper at LOVA Conference. Ethnographies of Gender and Mobility, VU Amsterdam. July 5-7 2017"
 author: "Luisa T. Schneider"
 date: 2017-06-01  11:11:27
-categories: [ forthcomingspeakingevents]
+categories: [pastspeakingevents]
 tags: [conferences]
 ---
 # \"Smart\" loving in constrained environments: Negotiating social and economic mobility in urban Sierra Leone 

@@ -3,7 +3,7 @@ layout: post
 title: "'Relationship's many faces' Paper at 2nd Non-Monogamies and Contemporary Intimacies Conference, Vienna. 31 August - 2 September 2017"
 author: "Luisa T. Schneider"
 date: 2017-06-01  11:11:27
-categories: [ forthcomingspeakingevents]
+categories: [ pastspeakingevents]
 tags: [Conferences]
 ---
 # Relationship’s many faces: love, sex and (a)romanticism in Freetown, Sierra Leone

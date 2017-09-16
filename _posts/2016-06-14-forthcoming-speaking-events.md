@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "'Love hurts' Paper at International Gender Studies LMH Oxford University. 19 October 2017"
+title: "'Love hurts' Paper at International Gender Studies LMH Oxford University. 09.November 2017"
 author: "Luisa T. Schneider"
 date: 2017-06-01  11:11:27
 categories: [ forthcomingspeakingevents]
@@ -21,6 +21,6 @@ tags: [Conferences]
 >I furthermore analyse existing laws and services. My work therefore explores the execution, endurance, mediation, and regulation as well as the socio-cultural, legal, and political ramifications of acts of Intimate Partner Violence and domestic violence in Freetown.
 
 ## Seminar
-International Gender Studies Seminar Series, Lady Margaret Hall, Thursday October 19th, 2.30pm - 3.30pm.
+International Gender Studies Seminar Series, Lady Margaret Hall, Thursday November 9, 2.30pm - 3.30pm.
 [link](http://www.lmh.ox.ac.uk/igs) to LMH Homepage.
 

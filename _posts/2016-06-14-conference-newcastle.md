@@ -3,7 +3,7 @@ layout: post
 title: "'masculinities and sexual practices among young men in Freetown, Sierra Leone' Paper at Doing Sex, Men and Masculinities Conference. Newcastle. 13 & 14 July 2017."
 author: "Luisa T. Schneider"
 date: 2017-06-01  11:11:27
-categories: [ forthcomingspeakingevents]
+categories: [ pastspeakingevents]
 tags: [Conferences]
 ---
 # Bambrusing, bossing, sexing, romancing: masculinities and sexual practices among young men in Freetown, Sierra Leone
