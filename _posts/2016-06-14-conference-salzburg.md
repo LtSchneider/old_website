@@ -3,7 +3,7 @@ layout: post
 title: "'sharing scarcity' Paper at Interdisciplinary Poverty Research Conference. Salzburg. 21 & 22 September 2017."
 author: "Luisa T. Schneider"
 date: 2017-06-01  11:11:27
-categories: [ forthcomingspeakingevents]
+categories: [ pastspeakingevents]
 tags: [Conferences]
 ---
 # \"Sharing scarcity\": young men’s friendships in Freetown.
