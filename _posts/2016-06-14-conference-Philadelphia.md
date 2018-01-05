@@ -7,8 +7,7 @@ date: 2017-11-01  11:11:27
 categories: [ forthcomingspeakingevents]
 tags: [conferences]
 ---
-# \"Something heavy/something light\": the multifaceted lived experiences,opinions and emotions of women experiencing gender-based violence in
-Freetown, Sierra Leone
+# \"Something heavy/something light\": the multifaceted lived experiences,opinions and emotions of women experiencing gender-based violence in Freetown, Sierra Leone
 
 ## Abstract
 > Based on long-term ethnographic fieldwork on (sexual) relationships and gender-based violence in post-war and post Ebola Freetown this paper maps the multi-layered positions, emotions and attitudes of women who experience GBV. Rather than assuming a position of resilience or victimhood, it is the women who define their experiences and my work is based on their positioning and terminologies. 
