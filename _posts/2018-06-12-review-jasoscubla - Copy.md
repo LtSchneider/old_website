@@ -7,3 +7,5 @@ tags: [articles]
 ---
 ## Abstract
 > this is a review of Lucien Scubla's 'Giving life, giving death: psychoanalysis, anthropology, philosophy'. 
+
+It was first published in JASO Online, the Journal of the Anthropological Society of the University of Oxford, Vol X Nr 1, 2018, pp. 122-125. [link](https://www.anthro.ox.ac.uk/jaso/current-issue) to JASO-online.
