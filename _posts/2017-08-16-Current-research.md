@@ -4,7 +4,7 @@ title: 	"Postdoctoral Research Project: Unhoused citizens in Berlin, Leipzig and
 date: 2018-04-19  11:11:27
 author: Luisa T. Schneider
 categories: [currentresearch]
-tags: [blog]
+tags: [blog, current research]
 ---
 
 ## Overview
