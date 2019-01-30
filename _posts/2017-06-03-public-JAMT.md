@@ -5,7 +5,7 @@ date: 2018-08-28  11:11:27
 author: Luisa T. Schneider
 categories: [article,blog]
 ---
-##Abstract
+## Abstract
 
 The ‘gender acts’ passed in 2007 and 2012, regarding intimate
 partner (sexual) violence though extremely progressive on
