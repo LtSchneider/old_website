@@ -5,6 +5,8 @@ date: 2018-08-28  11:11:27
 author: Luisa T. Schneider
 categories: [article,blog]
 ---
+##Abstract
+
 The ‘gender acts’ passed in 2007 and 2012, regarding intimate
 partner (sexual) violence though extremely progressive on
 paper, are starkly disconnected from the changing social landscapes, lived experiences and social codes, which govern marriages and cohabitation in Freetown, Sierra Leone. Using
@@ -26,4 +28,4 @@ agency they enable. The article contends that the pressures on
 women that cause them to prioritize social and economic
 security over justice need to be accounted for.
 
-Published by the JOURNAL OF AGGRESSION, MALTREATMENT & TRAUMA JOURNAL [link] (https://www.tandfonline.com/doi/full/10.1080/10926771.2018.1506854) to the article
+Published by the JOURNAL OF AGGRESSION, MALTREATMENT & TRAUMA JOURNAL [link] (https://www.tandfonline.com/doi/abs/10.1080/10926771.2018.1506854?journalCode=wamt20) to the article.
