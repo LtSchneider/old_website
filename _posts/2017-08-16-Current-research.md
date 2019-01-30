@@ -33,5 +33,5 @@ The third objective requires investigating the aftermaths of violence. How do un
 
 
 
- [The project] (http://www.eth.mpg.de/person/97733/3231723) 
+ [link] (http://www.eth.mpg.de/person/97733/3231723) to the Project
 
