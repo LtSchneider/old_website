@@ -28,4 +28,4 @@ agency they enable. The article contends that the pressures on
 women that cause them to prioritize social and economic
 security over justice need to be accounted for.
 
-Published by the JOURNAL OF AGGRESSION, MALTREATMENT & TRAUMA JOURNAL [link] (https://www.tandfonline.com/doi/abs/10.1080/10926771.2018.1506854?journalCode=wamt20) to the article.
+Published by the JOURNAL OF AGGRESSION, MALTREATMENT & TRAUMA JOURNAL [link](https://www.tandfonline.com/doi/abs/10.1080/10926771.2018.1506854?journalCode=wamt20) to the article.
