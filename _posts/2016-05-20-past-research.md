@@ -5,10 +5,16 @@ author: "Luisa T. Schneider"
 categories: [pastresearch]
 tags: [past research, development, sierra leone, human rights]
 ---
->2012 Fieldwork/Research. Vienna, Austria	On the human rights film festival “this human world”.
+## Research Projects
 
+> Schneider, L.(2018–2021). Homelessness, intimacy, violence and the law in Germany.
 
->Summer 2012 Fieldwork/Research in Freetown, Sierra Leone on indigenous perceptions of Development.
+> Schneider, L. (2015–2018). Violence in relationships and its mediation in Sierra Leone.
 
+> Schneider, L. (2012–2013). Human Rights film and its reception.
 
->Summer 2012; 2013 Fieldwork/Research in Freetown, Sierra Leone with members of the Bondo Secret Society for Women and the Poro Secret Society on uncertainty, inclusion/exclusion in the Slum of Susan’s Bay in Freetown.
+> Schneider, L. (2012–2013). Whose Development? Local perceptions of development in Sierra
+Leone.
+
+> Schneider, L. (2012–2013). The Bondo Society in Sierra Leone, female empowerment and female
+genital cutting.

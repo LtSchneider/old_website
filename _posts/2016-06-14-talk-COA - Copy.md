@@ -1,0 +1,19 @@
+---
+layout: post
+title: "Why the SOA of Sierra Leone criminalises love among young people rather
+than rape."
+author: "Luisa T. Schneider"
+date: 2017-21-01  11:11:27
+categories: [ forthcomingspeakingevents]
+tags: [conferences]
+---
+# Why the SOA of Sierra Leone criminalises love among young people rather
+than rape. 
+
+
+## Invited Guest Lecture/Seminar
+Center for African Studies, University of Copenhagen. 24.04.2018.
+
+
+
+
