@@ -13,5 +13,5 @@ tags: [articles]
 >  Violence is not just a private matter between people. Regulating it is not the duty of communities or the state alone. Rather, it is the dialogue and the tensions between these different forces which expose not only how things are “supposed to work”, but also how they “really work”. Lawmakers and those who craft policy that’s meant to empower and protect women need to consider and take seriously the knowledge of grassroots women’s groups and the criticism voiced by citizens and law enforcement. In this way, Sierra Leone can amend what doesn’t work in its legal framework and strengthen what does, to engender real change.
 
 
-It was published by the Conversation on 23 January, 2019. [link](https://theconversation.com/sierra-leones-laws-to-protect-women-have-unintended-consequences-109815) to the publication.
+This article was first published by the Conversation on 23 January, 2019. [link](https://theconversation.com/sierra-leones-laws-to-protect-women-have-unintended-consequences-109815) to the publication.
 

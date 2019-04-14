@@ -12,5 +12,5 @@ tags: [articles]
 > If Sierra Leone is to tackle the problem of domestic violence, lawmakers and the authorities need to understand the social dynamics around love and violence. They also need to support and protect women who report violence, to ensure they don’t experience stigma and further violence from their partners, families and communities.
 
 
-It was published by the Conversation on 09 January, 2019. [link](https://theconversation.com/why-sierra-leonean-women-dont-feel-protected-by-domestic-violence-laws-109436) to the publication.
+This article was first published by the Conversation on 09 January, 2019. [link](https://theconversation.com/why-sierra-leonean-women-dont-feel-protected-by-domestic-violence-laws-109436) to the publication.
 

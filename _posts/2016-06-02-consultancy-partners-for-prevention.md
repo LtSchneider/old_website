@@ -5,7 +5,7 @@ author: Luisa T. Schneider
 categories: [ consultancies]
 tags: [consultancies]
 ---
-> During my consultancy with P4P I
+> During her consultancy with P4P Luisa T. Schneider
 >> 1. Analyzeded the P4P capacity assessment surveys that were completed by P4P partners on line in survey monkey
 >> 2. Finalized the draft capacity assessment report with recommendations for capacity building in P4P Phase II.
 
