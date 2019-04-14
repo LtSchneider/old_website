@@ -3,7 +3,8 @@ layout: post
 title: 	"Partners as Possession: A Qualitative Exploration of Intimate Partner Sexual Violence in Freetown, Sierra Leone"
 date: 2018-08-28  11:11:27
 author: Luisa T. Schneider
-categories: [article,blog]
+categories: [articles]
+tags: [articles]
 ---
 ## Abstract
 
