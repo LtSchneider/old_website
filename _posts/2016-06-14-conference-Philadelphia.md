@@ -4,7 +4,7 @@ title: "'Something heavy.something light': the multifaceted lived experiences, o
 Freetown, Sierra Leone'.Paper at SfAA. Sustainable Futures, Philadelphia. April 3-7 2018"
 author: "Luisa T. Schneider"
 date: 2018-04-03  11:11:27
-categories: [ forthcomingspeakingevents]
+categories: [ pastspeakingevents]
 tags: [conferences]
 ---
 # \"Something heavy/something light\": the multifaceted lived experiences,opinions and emotions of women experiencing gender-based violence in Freetown, Sierra Leone

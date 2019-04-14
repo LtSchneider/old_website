@@ -4,7 +4,7 @@ title: "'When the state enters the bedroom': sexual citizenship, violence and it
 aftermaths in Freetown, Sierra Leone."
 author: "Luisa T. Schneider"
 date: 2017-01-21  11:11:27
-categories: [ forthcomingspeakingevents]
+categories: [ pastspeakingevents]
 tags: [conferences]
 ---
 # \"When the state enters the bedroom:\": sexual citizenship, violence and its
