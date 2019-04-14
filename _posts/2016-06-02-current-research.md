@@ -3,8 +3,8 @@ layout: post
 title: "Unhoused citizens in Berlin, Leipzig and Dresden: Intimacy, privacy and rights under state law."
 date: 2019-01-23  11:11:27
 author: Dr. Luisa T. Schneider
-categories: [current research]
-tags: [current research]
+categories: [currentresearch]
+tags: [currentresearch]
 ---
 ## Abstract
 > Dr. Luisa T. Schneider's current research at the Max Planck Institute for Social Anthropology in the Department of Law & Anthropology explores privacy, intimacy, violence, and relations to state laws and legal institutions among unhoused persons in Berlin and Leipzig. In Germany, human rights and the right to privacy and intimacy are basic rights. Privacy is defined spatially as the non-public sphere, the domestic arena, the family circle and private life, and the right to intimacy includes among other things sexuality and sexual life. However, these notions of privacy and intimacy as well as the processes in place to protect persons from intimate partner violence are constructed around an ideology of living circumstances wherein the private sphere is separated from the public sphere through the walls of one's home. The question that therefore arises is how these rights can be realised among persons who live under conditions which do not allow for this spatial separation. How do such citizens perceive their legal agency and how do they interact with the state when they are wronged?
@@ -13,5 +13,5 @@ tags: [current research]
 
 
 
-For further information see [link](https://www.eth.mpg.de/5064776/project) to the Website of the Max Planck Institute for Social Anthropology in Halle (Saale) where Dr. Schneider is a research fellow.
+For further information see. [link](https://www.eth.mpg.de/5064776/project) to the Website of the Max Planck Institute for Social Anthropology in Halle (Saale) where Dr. Schneider is a research fellow.
 
