@@ -2,7 +2,7 @@
 layout: post
 title: "'Teeth and tongue jammed together'.domestic violence in Freetown, Sierra Leone.Paper at AAA. Anthropology Matters,Washington. November 29 - December 3 2017"
 author: "Luisa T. Schneider"
-date: 2017-11-01  11:11:27
+date: 2017-11-21  11:11:27
 categories: [ pastspeakingevents]
 tags: [conferences]
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "'Something heavy.something light': the multifaceted lived experiences, opinions and emotions of women experiencing gender-based violence in
 Freetown, Sierra Leone'.Paper at SfAA. Sustainable Futures, Philadelphia. April 3-7 2018"
 author: "Luisa T. Schneider"
-date: 2017-11-01  11:11:27
+date: 2018-04-03  11:11:27
 categories: [ forthcomingspeakingevents]
 tags: [conferences]
 ---

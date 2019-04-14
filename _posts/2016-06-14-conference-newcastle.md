@@ -2,7 +2,7 @@
 layout: post
 title: "'masculinities and sexual practices among young men in Freetown, Sierra Leone' Paper at Doing Sex, Men and Masculinities Conference. Newcastle. 13 & 14 July 2017."
 author: "Luisa T. Schneider"
-date: 2017-06-01  11:11:27
+date: 2017-07-13  11:11:27
 categories: [ pastspeakingevents]
 tags: [Conferences]
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: "'winning at a losing game' Paper at ECAS7, the 7th European Conference on African Studies Basel. 29 June - 1 July 2017."
 author: "Luisa T. Schneider"
-date: 2017-06-01  11:11:27
+date: 2017-06-29  11:11:27
 categories: [ pastspeakingevents]
 tags: [ Conferences]
 ---

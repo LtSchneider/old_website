@@ -4,7 +4,7 @@ title: "'When the law turns on you': The consequences of the Sexual Offenses
 Act for young men accused of sexually penetrating their girlfriends in Sierra Leone."
 author: "Luisa T. Schneider"
 date: 2017-01-21  11:11:27
-categories: [ forthcomingspeakingevents]
+categories: [ pastspeakingevents]
 tags: [conferences]
 ---
 # \"When the law turns on you: \": The consequences of the Sexual Offenses
