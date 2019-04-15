@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Why Sierra Leonean women don’t feel protected by domestic violence laws"
-date: 2019-01-09  11:11:27
+date: 2019-01-09
 author: Luisa T. Schneider
 categories: [articles]
 tags: [articles]
